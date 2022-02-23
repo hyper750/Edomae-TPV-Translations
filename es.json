@@ -82,5 +82,6 @@
     "The number of meals must be greater than 0": "El cantidad debe ser superior a 0",
     "The price must be positive": "El precio debe ser positivo",
     "The table number must be positive": "La número de mesa debe ser positivo",
-    "Put a table number": "Debes añadir un número de mesa"
+    "Put a table number": "Debes añadir un número de mesa",
+    "404 Page not found": "Error 404: Página no encontrada"
 }

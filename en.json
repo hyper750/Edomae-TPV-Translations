@@ -82,5 +82,6 @@
     "The number of meals must be greater than 0": "The number of meals must be greater than 0",
     "The price must be positive": "The price must be positive",
     "The table number must be positive": "The table number must be positive",
-    "Put a table number": "Put a table number"
+    "Put a table number": "Put a table number",
+    "404 Page not found": "Error 404: Page not found"
 }
