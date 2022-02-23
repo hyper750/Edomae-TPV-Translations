@@ -76,5 +76,11 @@
     "Print": "Imprimir",
     "Id": "Id",
     "Imatge": "Imágen",
-    "Select the local": "Seleccionar local"
+    "Select the local": "Seleccionar local",
+    "The discount must be from 0 to 100": "El descuento debe ser entre 0 y 100",
+    "Put a price for the meal": "Debes añadir un precio para la comida",
+    "The number of meals must be greater than 0": "El cantidad debe ser superior a 0",
+    "The price must be positive": "El precio debe ser positivo",
+    "The table number must be positive": "La número de mesa debe ser positivo",
+    "Put a table number": "Debes añadir un número de mesa"
 }
