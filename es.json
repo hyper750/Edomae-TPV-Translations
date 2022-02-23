@@ -83,5 +83,7 @@
     "The price must be positive": "El precio debe ser positivo",
     "The table number must be positive": "La número de mesa debe ser positivo",
     "Put a table number": "Debes añadir un número de mesa",
-    "404 Page not found": "Error 404: Página no encontrada"
+    "404 Page not found": "Error 404: Página no encontrada",
+    "Can't generate daily tickets": "No se pueden generar los tickets diarios",
+    "The page you are looking for doesn't exist or an error occured.": "La página que estás buscando no existe o ha surgido un problema"
 }
