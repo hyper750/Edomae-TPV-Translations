@@ -85,5 +85,6 @@
     "Put a table number": "Debes añadir un número de mesa",
     "404 Page not found": "Error 404: Página no encontrada",
     "Can't generate daily tickets": "No se pueden generar los tickets diarios",
-    "The page you are looking for doesn't exist or an error occured.": "La página que estás buscando no existe o ha surgido un problema"
+    "The page you are looking for doesn't exist or an error occured.": "La página que estás buscando no existe o ha surgido un problema",
+    "Username or password incorrect": "Usuario o contraseña incorrecta"
 }

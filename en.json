@@ -85,5 +85,6 @@
     "Put a table number": "Put a table number",
     "404 Page not found": "Error 404: Page not found",
     "Can't generate daily tickets": "Can't generate daily tickets",
-    "The page you are looking for doesn't exist or an error occured.": "The page you are looking for doesn't exist or an error occured."
+    "The page you are looking for doesn't exist or an error occured.": "The page you are looking for doesn't exist or an error occured.",
+    "Username or password incorrect": "Username or password is incorrect"
 }
